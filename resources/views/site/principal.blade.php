@@ -4,20 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Garage 90</title>
+    <title>ETEC ZL</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
                   <link rel="stylesheet" href="/css/style.css">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
     <main class="bg-blue-100 rounded-xl">
-    <h1>Bem vindo a Garage 90!</h1>
+    <h1>ETEC Zona Leste</h1>
 
-<ul class="my-5 p-3 ml-2 grid gap-3 text-left text-wrap">
-    <li><a href="/">Home</a></li>
-    <li><a href="/contato">Contato</a></li>
-    <li><a href="/sobrenos">Sobrenos</a></li>
-</ul>    
+<p>Bem vindo ao nosso site onde você pode ficar por dentro das nossas atualização</p>
+    
+<div class="main-header">
+<a href="/">Home</a>
+<a href="/contato">Contato</a>
+<a href="/sobrenos">Cursos</a>
+<a href="/sobrenos">Departamentos</a>
+<a href="/sobrenos">Oportunidades</a>
+<a href="/sobrenos">Vertibulinho</a>
+<a href="/sobrenos">Sobrenos</a>
+</div>
 
 <p>Baixo temos os uma Alguns dos modelos que que povoaram as ruas dos anos 90 em diante, com projetos diferênciados.</p>
     

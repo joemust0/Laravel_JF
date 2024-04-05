@@ -25,25 +25,25 @@
 </div>
 <div class="estrutura bg-blue-300 text-blue-800 p-2 rounded m-5 p-5">
     <img src="{{asset('img/tela_bloqueio_wallpaper_etec.png')}}" class="w-4/5" alt="entrada alto">
-    <h3 class="text-black md:font-bold ">Estrutura</h3>
-    <p>Temos uma estrutura muito ampla para atender as demandas de estudo com acessibilidade para todos.</p>
+    <h3 class="text-black md:font-bold text-right">Estrutura</h3>
+    <p class=" w-1/5 text-right">Temos uma estrutura muito ampla para atender as demandas de estudo com acessibilidade para todos.</p>
 </div>
 <div class="espaco bg-blue-300 text-blue-800 p-2 rounded m-5 p-5 ">
     <img src="{{asset('img/panoramica_etec.png')}}" class="w-4/5" alt="panoramica_etec">
     <h3 class="text-black md:font-bold">Espaço</h3>
-    <p class="mb-5">O espaço que forncemos é suficite para atender as demandas dos nossos cursos e capaciatar nossos alunos.</p>
+    <p class="mb-5 w-1/5 text-right">O espaço que forncemos é suficite para atender as demandas dos nossos cursos e capaciatar nossos alunos.</p>
    <img src="{{asset('img/entrada.webp')}}" class="w-4/5" alt="Espaço-entrada">
     <p>Temos muita áreas em aberto e salas no mesmo nivel para facilitar a circulação dos alunos com necessidades especiais.</p>
 </div>
 <div class="espaco bg-blue-300 text-blue-800 p-2 rounded m-5 p-5 ">
     <img src="{{asset('img/sala.webp')}}" class="w-4/5" alt="Sala">
     <h3 class="text-black md:font-bold ">Salas</h3>
-    <p>As salas estão prontas com otimos equipamentos para que os alunos possam se desenvolver.</p>
+    <p class=" w-1/5 text-right">As salas estão prontas com otimos equipamentos para que os alunos possam se desenvolver.</p>
 </div>
 <div class="espaco bg-blue-300 text-blue-800 p-2 rounded m-5 p-5 ">
     <img src="{{asset('img/auditório.webp')}}" class="w-4/5" alt="Auditório">
     <h3 class="text-black md:font-bold ">Auditório</h3>
-    <p>Contamos, com um exelente espaço para para apresentações, palestras e entre outros eventos para os alunos e comunidade.</p>
+    <p class=" w-1/5 text-right">Contamos, com um exelente espaço para para apresentações, palestras e entre outros eventos para os alunos e comunidade.</p>
 </div>
 <div class="cursos m-10">
 <h3 class="text-black md:font-bold ">Cursos</h3>

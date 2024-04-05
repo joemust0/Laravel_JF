@@ -24,24 +24,24 @@
 <a href="/sobrenos">Sobrenos</a>
 </div>
 <div class="estrutura bg-blue-300 text-blue-800 p-2 rounded m-5 p-5">
-    <img src="{{asset('img/tela_bloqueio_wallpaper_etec.png')}}"  alt="entrada alto">
+    <img src="{{asset('img/tela_bloqueio_wallpaper_etec.png')}}" class="w-4/5" alt="entrada alto">
     <h3 class="text-black md:font-bold ">Estrutura</h3>
     <p>Temos uma estrutura muito ampla para atender as demandas de estudo com acessibilidade para todos.</p>
 </div>
 <div class="espaco bg-blue-300 text-blue-800 p-2 rounded m-5 p-5 ">
-    <img src="{{asset('img/panoramica_etec.png')}}"  alt="panoramica_etec">
+    <img src="{{asset('img/panoramica_etec.png')}}" class="w-4/5" alt="panoramica_etec">
     <h3 class="text-black md:font-bold">Espaço</h3>
     <p class="mb-5">O espaço que forncemos é suficite para atender as demandas dos nossos cursos e capaciatar nossos alunos.</p>
-   <img src="{{asset('img/entrada.webp')}}"  alt="Espaço-entrada">
+   <img src="{{asset('img/entrada.webp')}}" class="w-4/5" alt="Espaço-entrada">
     <p>Temos muita áreas em aberto e salas no mesmo nivel para facilitar a circulação dos alunos com necessidades especiais.</p>
 </div>
 <div class="espaco bg-blue-300 text-blue-800 p-2 rounded m-5 p-5 ">
-    <img src="{{asset('img/sala.webp')}}"  alt="Sala">
+    <img src="{{asset('img/sala.webp')}}" class="w-4/5" alt="Sala">
     <h3 class="text-black md:font-bold ">Salas</h3>
     <p>As salas estão prontas com otimos equipamentos para que os alunos possam se desenvolver.</p>
 </div>
 <div class="espaco bg-blue-300 text-blue-800 p-2 rounded m-5 p-5 ">
-    <img src="{{asset('img/auditório.webp')}}"  alt="Auditório">
+    <img src="{{asset('img/auditório.webp')}}" class="w-4/5" alt="Auditório">
     <h3 class="text-black md:font-bold ">Auditório</h3>
     <p>Contamos, com um exelente espaço para para apresentações, palestras e entre outros eventos para os alunos e comunidade.</p>
 </div>
